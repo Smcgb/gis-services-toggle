@@ -63,3 +63,8 @@ Stopping service MapServer2
 This script was developed by Shane Boyce for the City of Corvallis Information Technology Department and is shared publicly with their permission.
 ### AI Disclosure
 AI assistance (Claude) was used for two limited changes: moving the hardcoded server URL and interactive username/password entry to `.env`-based configuration, and a final bug-fix sweep. All other code is original work by Shane Boyce.
+
+The commits containing these AI-assisted changes, including the initial commit of this repository, are marked as co-authored by Claude.
+
+### Repository History
+This repository was created from an export of the code. The project was originally developed in a different git hosting environment, and its previous commit history was not carried over, so it is unavailable here.
