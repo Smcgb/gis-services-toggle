@@ -1,0 +1,11 @@
+[project]
+name = "gis-services-toggle"
+version = "0.1.0"
+description = "Toggles GIS services"
+readme = "README.md"
+requires-python = ">=3.10, <3.13"
+dependencies = [
+    "arcgis==2.4.1.3",
+    "jupyter>=1.1.1",
+    "python-dotenv>=1.2.4",
+]

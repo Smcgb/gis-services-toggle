@@ -1,0 +1,44 @@
+# Python cache and build
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+build/
+dist/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Logs and misc
+*.log
+*.tmp
+*.bak
+
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.vscode/
+.idea/
+*.iml
+.claude/
+
+# uv / project files to KEEP
+!uv.lock
+!pyproject.toml
+!.python-version
