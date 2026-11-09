@@ -61,3 +61,5 @@ Stopping service MapServer2
 
 ### Acknowledgements
 This script was developed by Shane Boyce for the City of Corvallis Information Technology Department and is shared publicly with their permission.
+### AI Disclosure
+AI assistance (Claude) was used for two limited changes: moving the hardcoded server URL and interactive username/password entry to `.env`-based configuration, and a final bug-fix sweep. All other code is original work by Shane Boyce.
